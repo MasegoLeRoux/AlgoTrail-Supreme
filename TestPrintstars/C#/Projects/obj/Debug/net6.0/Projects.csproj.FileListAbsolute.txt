@@ -1,0 +1,15 @@
+C:\Users\Maseg\OneDrive\Documents\Practice\Practicals\c#\Projects\bin\Debug\net6.0\Projects.exe
+C:\Users\Maseg\OneDrive\Documents\Practice\Practicals\c#\Projects\bin\Debug\net6.0\Projects.deps.json
+C:\Users\Maseg\OneDrive\Documents\Practice\Practicals\c#\Projects\bin\Debug\net6.0\Projects.runtimeconfig.json
+C:\Users\Maseg\OneDrive\Documents\Practice\Practicals\c#\Projects\bin\Debug\net6.0\Projects.dll
+C:\Users\Maseg\OneDrive\Documents\Practice\Practicals\c#\Projects\bin\Debug\net6.0\Projects.pdb
+C:\Users\Maseg\OneDrive\Documents\Practice\Practicals\c#\Projects\obj\Debug\net6.0\Projects.csproj.AssemblyReference.cache
+C:\Users\Maseg\OneDrive\Documents\Practice\Practicals\c#\Projects\obj\Debug\net6.0\Projects.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Maseg\OneDrive\Documents\Practice\Practicals\c#\Projects\obj\Debug\net6.0\Projects.AssemblyInfoInputs.cache
+C:\Users\Maseg\OneDrive\Documents\Practice\Practicals\c#\Projects\obj\Debug\net6.0\Projects.AssemblyInfo.cs
+C:\Users\Maseg\OneDrive\Documents\Practice\Practicals\c#\Projects\obj\Debug\net6.0\Projects.csproj.CoreCompileInputs.cache
+C:\Users\Maseg\OneDrive\Documents\Practice\Practicals\c#\Projects\obj\Debug\net6.0\Projects.dll
+C:\Users\Maseg\OneDrive\Documents\Practice\Practicals\c#\Projects\obj\Debug\net6.0\refint\Projects.dll
+C:\Users\Maseg\OneDrive\Documents\Practice\Practicals\c#\Projects\obj\Debug\net6.0\Projects.pdb
+C:\Users\Maseg\OneDrive\Documents\Practice\Practicals\c#\Projects\obj\Debug\net6.0\Projects.genruntimeconfig.cache
+C:\Users\Maseg\OneDrive\Documents\Practice\Practicals\c#\Projects\obj\Debug\net6.0\ref\Projects.dll

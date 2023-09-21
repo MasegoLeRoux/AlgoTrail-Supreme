@@ -35,7 +35,7 @@ AlgoTrail-Supreme serves as a gallery where I showcase my problem-solving skills
 
 
 # Programming Projects
-# <p align="center">week_1_upload depleyed</p>
+# <p align="center">week_1_upload Completed</p>
 
 
 # Programming Projects README
